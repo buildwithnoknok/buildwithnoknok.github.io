@@ -40,7 +40,7 @@ Start here:
 
 - **Ecosystem Design Guidelines**  
   Connector standards, power rules, mechanical specs, firmware conventions.  
-  https://github.com/buildwithnoknok/ecosystem
+  [https://github.com/buildwithnoknok/ecosystem](https://github.com/buildwithnoknok/ecosystem) 
 
 - **Module Templates**  
   Use existing modules as reference designs. Check the KiCAD design files from similar modules in the Module Index below.
@@ -64,7 +64,7 @@ Start here:
 
 - **Mechanical Standards**  
   Mounting hole positions, PCB dimensions, and tolerances:  
-  https://github.com/buildwithnoknok/ecosystem
+  [https://github.com/buildwithnoknok/ecosystem](https://github.com/buildwithnoknok/ecosystem) 
 
 - **Customization Guidelines**  
   *(Coming soon — recommended wall thickness, clearances, tolerances, 3D printer settings, etc.)*
@@ -76,7 +76,7 @@ You bought a kit and want to assemble it.
 
 Go to the **noknok.app** website for tutorials, videos, and step‑by‑step instructions:
 
-- https://www.noknok.app
+-   [https://www.noknok.app](https://www.noknok.app) 
 
 ---
  
@@ -84,24 +84,24 @@ Go to the **noknok.app** website for tutorials, videos, and step‑by‑step ins
 
 ### I²C Modules
 - **Rotary Encoder**  
-  https://github.com/buildwithnoknok/module-I2C-rotaryencoder
+  [https://github.com/buildwithnoknok/module-I2C-rotaryencoder](https://github.com/buildwithnoknok/module-I2C-rotaryencoder) 
 
 - **Buzzer**  
-  https://github.com/buildwithnoknok/module-I2C-buzzer
+  [https://github.com/buildwithnoknok/module-I2C-buzzer](https://github.com/buildwithnoknok/module-I2C-buzzer) 
 
 - **Keyboard Button w/ LED**  
-  https://github.com/buildwithnoknok/module-I2C-keyboardbutton
+  [https://github.com/buildwithnoknok/module-I2C-keyboardbutton](https://github.com/buildwithnoknok/module-I2C-keyboardbutton) 
 
 ### USB Modules
 - **USB LED Module**  
-  https://github.com/buildwithnoknok/module-usb-led
+  [https://github.com/buildwithnoknok/module-usb-led](https://github.com/buildwithnoknok/module-usb-led) 
 
 ---
  
 # Documentation
 
 - **Ecosystem Guidelines**  
-  https://github.com/buildwithnoknok/ecosystem
+  [https://github.com/buildwithnoknok/ecosystem](https://github.com/buildwithnoknok/ecosystem) 
 
 - **Module Documentation**  
   Inside each module repo.
