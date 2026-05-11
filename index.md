@@ -20,7 +20,7 @@ Choose your path:
 
 ---
 
-## 🧑‍💻Software Maker
+## Software Maker
 You want to **use noknok modules** to build a product, prototype, or kit.
 
 Start here:
@@ -33,7 +33,7 @@ Start here:
 
 ---
 
-## 🛠️Hardware Maker  
+## Hardware Maker  
 You want to **create your own or customize (e.g. the layout of) existing hardware modules** that plug into the noknok ecosystem.
 
 Start here:
@@ -51,8 +51,7 @@ Start here:
 
 ---
 
-
-## 🎨3D Designer  
+## 3D Designer  
 You want to **customize or create housings** for existing noknok modules or kits.
 
 Start here:
@@ -72,7 +71,7 @@ Start here:
 
 ---
  
-## 👷Builder  
+## Builder  
 You bought a kit and want to assemble it.
 
 Go to the **noknok.app** website for tutorials, videos, and step‑by‑step instructions:
@@ -81,7 +80,7 @@ Go to the **noknok.app** website for tutorials, videos, and step‑by‑step ins
 
 ---
  
-# 🔌Module Index
+# Module Index
 
 ### I²C Modules
 - **Rotary Encoder**  
@@ -99,7 +98,7 @@ Go to the **noknok.app** website for tutorials, videos, and step‑by‑step ins
 
 ---
  
-# 📚Documentation
+# Documentation
 
 - **Ecosystem Guidelines**  
   https://github.com/buildwithnoknok/ecosystem
@@ -112,7 +111,7 @@ Go to the **noknok.app** website for tutorials, videos, and step‑by‑step ins
 
 ---
  
-# 🛠️Contribute your project, module or product
+# Contribute your project, module or product
 
 Want to contribute to the noknok community?
 
