@@ -4,10 +4,10 @@ Modular hardware for Makers, Builders, and Explorers.
 This is the central hub for all noknok modules, kits, documentation, and ecosystem standards.
 
 For high-level information, please check our main site here:
-- **Main Website** — https://www.noknok.app 
+- **Main Website** — [https://www.noknok.app](https://www.noknok.app) 
 
 Looking for modules, kits, accessories, hardware tools, etc. please check our shop:
-- **Shop** — https://shop.noknok.app
+- **Shop** — [https://shop.noknok.app](https://shop.noknok.app)
 
 ---
 
