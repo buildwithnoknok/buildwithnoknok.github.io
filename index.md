@@ -13,13 +13,12 @@ Looking for modules, kits, accessories, hardware tools, etc. please check our sh
 
 # Who are you?
 
-Choose your path based on what you want to build:
-- **[Software Makers](#software-maker)**
-- **[Hardware Makers](#hardware-maker)**
-- **[3D designer](#3d-designer)**
+Choose your path:
+- **[I'm a software maker](#software-maker)**
+- **[I'm a hardware maker](#hardware-maker)**
+- **[I'm a 3D designer](#3d-designer)**
 
 ---
-
 
 ## 🧑‍💻Software Maker
 You want to **use noknok modules** to build a product, prototype, or kit.
