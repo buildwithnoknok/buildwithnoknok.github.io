@@ -11,9 +11,8 @@ Looking for modules, kits, accessories, hardware tools, etc. please check our sh
 
 ---
 
-# Who are you?
+# Who are you? Choose your path:
 
-Choose your path:
 - **[I'm a software maker](#software-maker)**, using existing modules and programming in Python or C.
 - **[I'm a hardware maker](#hardware-maker)**, designing or modifying noknok PCBs myself.
 - **[I'm a 3D designer](#3d-designer)**, creating my own housings for noknok kits.
