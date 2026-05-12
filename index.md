@@ -95,6 +95,16 @@ Go to the [https://www.noknok.app](https://www.noknok.app) website for tutorials
   [https://github.com/buildwithnoknok/module-I2C-keyboardbutton](https://github.com/buildwithnoknok/module-I2C-keyboardbutton) 
 
 ### USB Modules
+
+- **Raspberry Pi Pico Hub**  
+  [https://github.com/buildwithnoknok/module-usb-raspipicohub](https://github.com/buildwithnoknok/module-usb-raspipicohub)
+
+- **USB Power Distribution Hub**  
+  [https://github.com/buildwithnoknok/module-usb-powerhub](https://github.com/buildwithnoknok/module-usb-powerhub)
+
+- **USB-C 4 port Data Hub**  
+  [https://github.com/buildwithnoknok/module-usb-datahub](https://github.com/buildwithnoknok/module-usb-datahub) 
+
 - **USB LED Module**  
   [https://github.com/buildwithnoknok/module-usb-led](https://github.com/buildwithnoknok/module-usb-led) 
 
