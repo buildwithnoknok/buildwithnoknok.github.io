@@ -84,28 +84,28 @@ Go to the [https://www.noknok.app](https://www.noknok.app) website for tutorials
 # Module Index
 
 ### I²C Modules
-- **Rotary Encoder**  
-  [https://github.com/buildwithnoknok/module-I2C-rotaryencoder](https://github.com/buildwithnoknok/module-I2C-rotaryencoder) 
+- **noknok Buzzer**  
+  [https://github.com/buildwithnoknok/module-I2C-buzzer](https://github.com/buildwithnoknok/module-I2C-buzzer)
 
-- **Buzzer**  
-  [https://github.com/buildwithnoknok/module-I2C-buzzer](https://github.com/buildwithnoknok/module-I2C-buzzer) 
+- **noknok Knob**  
+  [https://github.com/buildwithnoknok/module-I2C-knob](https://github.com/buildwithnoknok/module-I2C-knob)
 
-- **Keyboard Button w/ LED**  
-  [https://github.com/buildwithnoknok/module-I2C-keyboardbutton](https://github.com/buildwithnoknok/module-I2C-keyboardbutton) 
+- **noknok LED Button**  
+  [https://github.com/buildwithnoknok/module-I2C-ledbutton](https://github.com/buildwithnoknok/module-I2C-ledbutton)
 
 ### USB Modules
 
-- **Raspberry Pi Pico Hub**  
-  [https://github.com/buildwithnoknok/module-usb-raspipicohub](https://github.com/buildwithnoknok/module-usb-raspipicohub)
+- **noknok PicoHub**  
+  [https://github.com/buildwithnoknok/module-usb-picohub](https://github.com/buildwithnoknok/module-usb-picohub)
 
-- **USB Power Distribution Hub**  
+- **noknok PowerHub**  
   [https://github.com/buildwithnoknok/module-usb-powerhub](https://github.com/buildwithnoknok/module-usb-powerhub)
 
-- **USB-C 4 port Data Hub**  
-  [https://github.com/buildwithnoknok/module-usb-datahub](https://github.com/buildwithnoknok/module-usb-datahub) 
+- **noknok DataHub**  
+  [https://github.com/buildwithnoknok/module-usb-datahub](https://github.com/buildwithnoknok/module-usb-datahub)
 
-- **USB LED Module**  
-  [https://github.com/buildwithnoknok/module-usb-led](https://github.com/buildwithnoknok/module-usb-led) 
+- **noknok LEDs**  
+  [https://github.com/buildwithnoknok/module-usb-led](https://github.com/buildwithnoknok/module-usb-led)
 
 ---
  
