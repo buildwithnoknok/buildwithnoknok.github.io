@@ -24,7 +24,7 @@ You want to use noknok modules to build a product, prototype, or kit and program
 **Start here:**
 
 - **Python library and example scripts**  
-  [`noknok.py`](https://github.com/buildwithnoknok/Ecosystem/tree/main/software/pico) — the Conductor library that runs on the Pico. Includes drivers for all I²C modules, enumeration, roles, and test scripts.
+  [`noknok.py`](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) — the Conductor library that runs on the Pico. Includes drivers for all I²C modules, enumeration, roles, and test scripts.
 
 - **Module API documentation**  
   Each module's `README.md` contains the full I²C protocol, Python API, and wiring guide.  
@@ -103,9 +103,9 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 
 | Module | Description | Firmware | Repo |
 |--------|-------------|----------|------|
-| **noknok Buzzer** | I²C audio buzzer, 5 preloaded tunes, fire-and-forget | v3.1 ✅ | [module-I2C-buzzer](https://github.com/buildwithnoknok/module-I2C-buzzer) |
-| **noknok Knob** | I²C rotary encoder with push button | v1.5 ✅ | [module-I2C-knob](https://github.com/buildwithnoknok/module-I2C-knob) |
-| **noknok LED Button** | I²C tactile button with RGB LED backlight | v1.0 ✅ | [module-I2C-ledbutton](https://github.com/buildwithnoknok/module-I2C-ledbutton) |
+| **noknok Buzzer** | I²C audio buzzer, 5 preloaded tunes, fire-and-forget | v3.2 ✅ | [module-I2C-buzzer](https://github.com/buildwithnoknok/module-I2C-buzzer) |
+| **noknok Knob** | I²C rotary encoder with push button | v2.0 ✅ | [module-I2C-knob](https://github.com/buildwithnoknok/module-I2C-knob) |
+| **noknok LED Button** | I²C tactile button with RGB LED backlight | v2.0 ✅ | [module-I2C-ledbutton](https://github.com/buildwithnoknok/module-I2C-ledbutton) |
 
 ### USB Modules
 
@@ -127,7 +127,7 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 | [Mechanical Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/mechanical/readme.md) | PCB sizes, mounting, 3D printing |
 | [Software Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/readme.md) | Languages, toolchain, firmware conventions |
 | [Enumeration Protocol](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/enumeration.md) | Full I²C module discovery & address assignment spec |
-| [Python Library](https://github.com/buildwithnoknok/Ecosystem/tree/main/software/pico) | `noknok.py` and Pico scripts |
+| [Python Library](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) | `noknok.py` and Pico scripts |
 
 ---
 
