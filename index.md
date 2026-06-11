@@ -128,6 +128,7 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 | [Software Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/readme.md) | Languages, toolchain, firmware conventions |
 | [Enumeration Protocol](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/enumeration.md) | Full I²C module discovery & address assignment spec |
 | [Python Library](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) | `noknok.py` and Pico scripts |
+| [License, Safety &amp; Liability](/safety-and-license/) | How noknok is licensed + safety &amp; liability notice |
 
 ---
 
@@ -140,5 +141,7 @@ Get in touch — we want to know what you're building.
 **[Contact the noknok Team](https://noknok.odoo.com/support#Contact-us)**
 
 ---
+
+📄 [License, Safety &amp; Liability](/safety-and-license/)
 
 Made with ❤️ in Switzerland.
