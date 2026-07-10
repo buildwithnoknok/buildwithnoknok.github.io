@@ -72,8 +72,10 @@ bridge two separated modules into one enclosure. **↺ reset to rectangle** star
 Your box needs two things on its walls, and the tool won't let you generate until both
 are placed. **Click directly on a wall** of the box to add whichever is selected:
 
-- 🔌 **Power slot** (blue) — the opening your USB-C power cable passes through. Add at
-  least one, on the wall nearest where the cable should come out.
+- 🔌 **Power slot** (blue) — a U-shaped notch, open at the top, that your USB-C power
+  cable drops into. You plug the cable into the module first, then lay the cable into the
+  notch before closing the covers — so only the thin cable needs to fit, not the whole plug.
+  Add at least one, on the wall nearest where the cable should exit.
 - 🔒 **Latch** (orange) — switch the toggle to *latch*, then click walls to add clips
   that hold the two covers shut. Add a couple around the box.
 
@@ -98,10 +100,10 @@ Happy with it? Click **Download STL** and you'll get a `noknok_housing_….stl` 
 - **Material:** PLA or PETG both work well. See the
   [3D Printing Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/mechanical/3D_printed.md)
   for layer height, infill, and material notes.
-- **Assembly:** set each module onto the columns of the back cover, plug in the cables,
-  then press the front cover on until the latches click. To open it again later, push a
-  latch in through its window from the outside — the box is fully repairable, nothing is
-  glued or trapped.
+- **Assembly:** set each module onto the columns of the back cover, plug in the cables and
+  lay the power cable into its slot, then press the front cover on until the latches click.
+  To open it again later, push a latch in through its window from the outside — the box is
+  fully repairable, nothing is glued or trapped.
 
 ---
 
