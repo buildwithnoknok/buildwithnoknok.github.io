@@ -58,6 +58,12 @@ Each module shows little markers you should keep an eye on:
 Leave a bit of room next to the connector squares so cables can reach them, and try not
 to let modules sit right on top of each other.
 
+### Label a module (optional)
+
+Select a module, type a label (e.g. "Volume"), pick an edge, and set the size — the text is
+**engraved into the top cover** in the tiles next to that edge. Those tiles become part of the
+box and no module can be placed on them, so leave room for the label when you arrange things.
+
 ### 3. Shape the box
 
 The box starts as a rectangle hugging your modules (shaded green). To change its shape,
