@@ -73,6 +73,10 @@ You want to customize or create housings for noknok modules or kits?
 
 **Start here:**
 
+- **Housing Configurator** 🧩  
+  Design a custom 3D-printable housing for your modules in the browser — no install, no login.  
+  → [How to use the Configurator](/housing-configurator/) · [Launch it](/configurator/)
+
 - **3D Housing Files**  
   Available inside each module repository under `/hardware/3d/`.
 
@@ -125,6 +129,7 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 | [Ecosystem Overview](https://github.com/buildwithnoknok/Ecosystem) | Root — architecture, goals, principles |
 | [Electrical Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/electrical/readme.md) | Connectors, power, I²C, PCB design |
 | [Mechanical Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/mechanical/readme.md) | PCB sizes, mounting, 3D printing |
+| [Housing Configurator](/housing-configurator/) | Browser tool to design a 3D-printable housing for your modules |
 | [Software Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/readme.md) | Languages, toolchain, firmware conventions |
 | [Enumeration Protocol](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/enumeration.md) | Full I²C module discovery & address assignment spec |
 | [Python Library](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) | `noknok.py` and Pico scripts |
