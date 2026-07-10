@@ -95,7 +95,10 @@ Click **Generate 3D box**. The tool switches to a 3D preview you can spin around
 - **Assembled** — how the finished box looks.
 - **Print layout** — the two covers laid flat and ready for the print bed.
 
-Happy with it? Click **Download STL** and you'll get a `noknok_housing_….stl` file.
+Happy with it? Click **Download STL (both covers)** for the whole box, or grab each cover on
+its own with **top cover** / **bottom cover** — handy for printing one at a time or in two
+colours. (In the combined file the two covers are separate bodies, so your slicer's "Split to
+objects/parts" also splits them.)
 
 ---
 
