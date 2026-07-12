@@ -102,6 +102,43 @@ objects/parts" also splits them.)
 
 ---
 
+## Joining two boxes (optional)
+
+Want to split a build across **two separate enclosures** — say a control box next to a lamp —
+and still run a cable between them? The **Join to another box** tools add a tool-free dovetail
+joint and a cable pass-through. You design and print each box on its own, then slide them together.
+
+Like power slots and latches, you add these by **clicking a wall**:
+
+| Tool | What it adds |
+|------|--------------|
+| ◤ **Male** | a dovetail *rail* on the outside of the wall |
+| ◣ **Female** | a dovetail *groove* the rail slides into. It fills the tile just inside that wall, so no module can go there — add an empty cell with **Reshape box** if none is free |
+| ▭ **Cable** | an opening in the wall for a cable to pass between the two boxes |
+
+### Line them up
+
+Because you design each box separately, *you* place the joint — and the two boxes have to match.
+The 10 mm grid makes this easy: put a **male** rail on one box, and a **female** groove at the
+**mirror position** on the wall of the other box that will face it. Do the same with a **cable
+opening** on each box if you want to route wiring across.
+
+> **Tip:** design both boxes at the same time and count grid cells from a shared corner, so the
+> male on box A lands exactly opposite the female on box B.
+
+Keep the joint tools on **different walls** from your power slots and latches.
+
+### Put them together
+
+Print both boxes, then **lower the second box straight down** so its rails slide into the first
+box's grooves from the top. The dovetails lock the boxes together side-to-side; to take them apart
+again, just **lift straight up** — no tools, nothing to break.
+
+> This is a **brand-new feature**. The dovetail is a snug slide fit — if your first pair prints too
+> tight or too loose, [tell us](https://noknok.odoo.com/support#Contact-us) and we'll fine-tune it.
+
+---
+
 ## Printing and assembly
 
 - **Orientation:** print from the **Print layout** — the front cover sits face-down and
