@@ -102,6 +102,16 @@ objects/parts" also splits them.)
 
 ---
 
+## Save your design
+
+Not finished, or want to reuse a layout? Up in the left panel under **Design file**, click **💾 save** to
+download your current 2D layout as a small `.json` file, and **📂 load** to open it again later — it
+restores everything (modules, box shape, power slots, latches, joins, labels, cable mushrooms) so you can
+keep editing. It's also an easy way to share a design with someone else. (Loading only accepts noknok
+design files and quietly ignores anything it doesn't recognise.)
+
+---
+
 ## Joining two boxes (optional)
 
 Want to split a build across **two separate enclosures** — say a control box next to a lamp —
