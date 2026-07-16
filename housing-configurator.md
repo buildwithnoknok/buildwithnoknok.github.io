@@ -64,6 +64,12 @@ Select a module, type a label (e.g. "Volume"), pick an edge, and set the size �
 **engraved into the top cover** in the tiles next to that edge. Those tiles become part of the
 box and no module can be placed on them, so leave room for the label when you arrange things.
 
+### noknok branding
+
+The **noknok logo** is embossed on the top cover so your build proudly shows it's part of the ecosystem.
+It's added automatically in a spare tile — switch **Click an empty cell to…** to **✳ noknok logo** to move
+it to a tile you like, or click it again to remove it. Totally up to you.
+
 ### 3. Shape the box
 
 The box starts as a rectangle hugging your modules (shaded green). To change its shape,
