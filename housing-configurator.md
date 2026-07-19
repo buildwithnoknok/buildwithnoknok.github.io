@@ -157,8 +157,9 @@ again, just **lift straight up** — no tools, nothing to break.
 
 ## Printing and assembly
 
-- **Orientation:** print from the **Print layout** — the front cover sits face-down and
-  the back cover is placed beside it, mirrored, so it folds over and everything lines up.
+- **Orientation:** print from the **Print layout** — the top cover sits face-down and the
+  bottom cover is placed beside it. They're arranged like an open book: fold the top cover
+  over onto the bottom and every column lines up. What you print matches your 2D layout.
 - **Material:** PLA or PETG both work well. See the
   [3D Printing Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/mechanical/3D_printed.md)
   for layer height, infill, and material notes.
