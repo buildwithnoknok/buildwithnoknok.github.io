@@ -149,4 +149,4 @@ Get in touch — we want to know what you're building.
 
 📄 [License, Safety &amp; Liability](/safety-and-license/)
 
-Made with ❤️ in Switzerland.
+Made with ❤️ (and the help of AI) in Switzerland.
