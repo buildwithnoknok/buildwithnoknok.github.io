@@ -17,6 +17,10 @@ noknok is open hardware. We share our designs so you can build, repair, customis
 
 Each repository contains its own `LICENSE` file, which is authoritative. All of these licenses are provided **without any warranty**.
 
+## Use of AI
+
+noknok is a tiny company. Our hardware, firmware, software, and this website are **built with the help of AI** — AI tools assist with design, writing, coding, and documentation, but the work is human-led: a person reviews, decides, and is accountable for everything before it ships. We're open about this because building and maintaining a modular, repairable ecosystem as a small team is exactly the kind of work good tools should help with — and we'd rather tell you than hide it.
+
 ## ⚠️ Safety notice
 
 noknok products are **electronic devices and do-it-yourself maker kits**. You assemble, solder, 3D-print, flash, power, modify, and operate them **at your own risk**. In particular:
