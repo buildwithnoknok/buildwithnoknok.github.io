@@ -117,7 +117,7 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 |--------|-------------|----------|------|
 | **noknok PicoHub** | Raspberry Pi Pico mount + I²C connectors | — | [module-usb-picohub](https://github.com/buildwithnoknok/module-usb-picohub) |
 | **noknok PowerHub** | USB power distribution hub | — | [module-usb-powerhub](https://github.com/buildwithnoknok/module-usb-powerhub) |
-| **noknok DataHub** | 4-port USB-C data hub (CH339) | — | [module-usb-datahub](https://github.com/buildwithnoknok/module-usb-datahub) |
+| **noknok DataHub** | 4-port USB-C data hub (CH335F) | — | [module-usb-datahub](https://github.com/buildwithnoknok/module-usb-datahub) |
 | **noknok LEDs** | 8× WS2812b RGB LED ring, USB | pending | [module-usb-led](https://github.com/buildwithnoknok/module-usb-led) |
 
 ---
