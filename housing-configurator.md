@@ -39,7 +39,13 @@ You do it in five quick steps.
 
 In the left panel under **Add a module**, click each module you want. It drops onto the
 grid. The number next to each name (e.g. `20×20`) is its size in millimetres. Supported
-modules today: **buzzer, knob, LED button, USB LEDs, and display**.
+modules today: **buzzer, knob, LED button, USB LEDs, display, and PicoHub**.
+
+The **PicoHub** is the tall one: it is only ever used with a Raspberry Pi Pico plugged
+into it, so its housing has to clear the Pico as well as the board. Because a box has a
+single uniform height, adding a PicoHub raises the height of every module sharing that
+box — the tool will tell you when that happens, and you can always give the PicoHub its
+own box and join the two with a dovetail. Its lid gets a ventilation grille over the Pico.
 
 ### 2. Arrange them
 
@@ -173,7 +179,7 @@ again, just **lift straight up** — no tools, nothing to break.
 ## Good to know
 
 - This is an **early tool** and we're improving it quickly. It currently covers the
-  buzzer, knob, LED button, USB LEDs, and display modules.
+  buzzer, knob, LED button, USB LEDs, display, and PicoHub modules.
 - The configurator is **open source** (MIT). The code lives in the
   [Ecosystem repo](https://github.com/buildwithnoknok/Ecosystem/tree/main/mechanical/housing-configurator).
 - Housings you export are yours to print, remix, and share — see our
