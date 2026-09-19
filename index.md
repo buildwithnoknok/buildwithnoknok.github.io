@@ -26,6 +26,10 @@ You want to use noknok modules to build a product, prototype, or kit and program
 - **Python library and example scripts**  
   [`noknok.py`](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) — the Conductor library that runs on the Pico. Includes drivers for all I²C modules, enumeration, roles, and test scripts.
 
+- **Display Planner** 🖥️  
+  Lay out the noknok Display as named regions, turn images into 1-bit icons, and copy the `noknok.py` code — in the browser, no install.  
+  → [How to use the Display Planner](/display-planner-guide/) · [Launch it](/display-planner/)
+
 - **Module API documentation**  
   Each module's `README.md` contains the full I²C protocol, Python API, and wiring guide.  
   → [Module Index](#module-index)
@@ -130,6 +134,7 @@ Visit [https://www.noknok.app](https://www.noknok.app) for tutorials, videos, an
 | [Electrical Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/electrical/readme.md) | Connectors, power, I²C, PCB design |
 | [Mechanical Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/mechanical/readme.md) | PCB sizes, mounting, 3D printing |
 | [Housing Configurator](/housing-configurator/) | Browser tool to design a 3D-printable housing for your modules |
+| [Display Planner](/display-planner-guide/) | Browser tool to lay out the noknok Display, make 1-bit icons, and export `noknok.py` code |
 | [Software Guidelines](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/readme.md) | Languages, toolchain, firmware conventions |
 | [Enumeration Protocol](https://github.com/buildwithnoknok/Ecosystem/blob/main/software/enumeration.md) | Full I²C module discovery & address assignment spec |
 | [Python Library](https://github.com/buildwithnoknok/brain-Pico/tree/main/software) | `noknok.py` and Pico scripts |
