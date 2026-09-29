@@ -39,7 +39,13 @@ You do it in five quick steps.
 
 In the left panel under **Add a module**, click each module you want. It drops onto the
 grid. The number next to each name (e.g. `20×20`) is its size in millimetres. Supported
-modules today: **buzzer, knob, LED button, USB LEDs, display, and PicoHub**.
+modules today: **buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, and PicoHub**.
+
+Both LED modules also come as a **+dome** version. Its lid has a screw thread: you print a
+dome (clear/translucent, or the honeycomb one in any colour) and screw it in from the top.
+The round **USB LEDs 16x** uses a smaller dome (ø44, on a 50×50 tile) than the square
+USB LEDs (ø58, on a 70×70 tile). After generating, use **⬇ reference dome lid** or
+**⬇ honeycomb dome lid** to download the matching lid.
 
 The **PicoHub** is the tall one: it is only ever used with a Raspberry Pi Pico plugged
 into it, so its housing has to clear the Pico as well as the board. Because a box has a
@@ -179,7 +185,7 @@ again, just **lift straight up** — no tools, nothing to break.
 ## Good to know
 
 - This is an **early tool** and we're improving it quickly. It currently covers the
-  buzzer, knob, LED button, USB LEDs, display, and PicoHub modules.
+  buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, and PicoHub modules.
 - The configurator is **open source** (MIT). The code lives in the
   [Ecosystem repo](https://github.com/buildwithnoknok/Ecosystem/tree/main/mechanical/housing-configurator).
 - Housings you export are yours to print, remix, and share — see our
