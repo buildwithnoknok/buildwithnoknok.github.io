@@ -21,7 +21,8 @@ your computer, offline once loaded.
 </p>
 
 **You'll need:** a desktop browser (Chrome, Edge, Firefox, or Safari), a noknok Display on a
-Pico running `noknok.py` **1.9 or newer**, and a mouse or trackpad.
+Pico running `noknok.py` **1.11 or newer** with display firmware **0.6.0 or newer**, and a
+mouse or trackpad.
 
 ---
 
@@ -52,9 +53,19 @@ same fonts, same wrapping, same clipping as the Pico and the module use.
 
 ### 1. Pick your display
 
-Top-left: choose **noknok Display 1.42″ (80 × 160)** and the **orientation**. Landscape
-turns it into 160 × 80 and adds a `d.rotation(1)` line to the code. (Custom sizes are
-there for displays that don't exist yet — up to 255 × 255.)
+Top-left: choose **noknok Display 1.42″** and the **orientation**.
+
+The display **wakes up in landscape, 160 × 80** — that is how the module's own firmware
+starts (v0.6.0 and newer), so landscape is the planner's default and its code needs no
+rotation call at all. Pick portrait (80 × 160) or either upside-down variant and the planner
+adds the line that is then **required**:
+
+```python
+d.rotation(PORTRAIT)      # or LANDSCAPE_FLIPPED, PORTRAIT_FLIPPED
+```
+
+Leave that line out and your product would draw sideways — so let the planner write it.
+(Custom sizes are there for displays that don't exist yet — up to 255 × 255.)
 
 **Background** is the colour the screen is cleared to; every region wipes to it (or to its
 own box background) before drawing.
