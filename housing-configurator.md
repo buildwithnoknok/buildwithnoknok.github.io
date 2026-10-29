@@ -39,7 +39,8 @@ You do it in five quick steps.
 
 In the left panel under **Add a module**, click each module you want. It drops onto the
 grid. The number next to each name (e.g. `20×20`) is its size in millimetres. Supported
-modules today: **buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, and PicoHub**.
+modules today: **buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, PicoHub, and
+PicoHub OLD** (the earlier passive Pico carrier).
 
 Both LED modules also come as a **+dome** version. Its lid has a screw thread: you print a
 dome (clear/translucent, or the honeycomb one in any colour) and screw it in from the top.
@@ -47,11 +48,18 @@ The round **USB LEDs 16x** uses a smaller dome (ø44, on a 50×50 tile) than the
 USB LEDs (ø58, on a 70×70 tile). After generating, use **⬇ reference dome lid** or
 **⬇ honeycomb dome lid** to download the matching lid.
 
-The **PicoHub** is the tall one: it is only ever used with a Raspberry Pi Pico plugged
-into it, so its housing has to clear the Pico as well as the board. Because a box has a
-single uniform height, adding a PicoHub raises the height of every module sharing that
-box — the tool will tell you when that happens, and you can always give the PicoHub its
-own box and join the two with a dovetail. Its lid gets a ventilation grille over the Pico.
+The **noknok PicoHub** (80×40) is the tall one: a Raspberry Pi Pico 2 W is always plugged
+into it, so its housing has to clear the Pico as well as the board. The Pico is shown as a
+dotted outline on the tile. Because a box has a single uniform height, adding a PicoHub
+raises the height of every module sharing that box — the tool will tell you when that
+happens, and you can always give the PicoHub its own box and join the two with a dovetail.
+Its lid gets a ventilation grille over the whole board.
+
+The PicoHub has two USB-C ports that look the same, so the tile names them: **POWER** (the
+power input, bottom edge) and **HOST** (the USB host port, top edge). Click a **power slot**
+on the wall a USB-C arrow points at, and the tool cuts an opening at the port's height that a
+USB-C plug fits through from outside. The Pico's own micro-USB port gets no opening. Want the
+port names on the print too? Use **Label the selected module**.
 
 ### 2. Arrange them
 
@@ -185,7 +193,8 @@ again, just **lift straight up** — no tools, nothing to break.
 ## Good to know
 
 - This is an **early tool** and we're improving it quickly. It currently covers the
-  buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, and PicoHub modules.
+  buzzer, knob, LED button, USB LEDs, USB LEDs 16x, display, PicoHub, and PicoHub OLD
+  modules.
 - The configurator is **open source** (MIT). The code lives in the
   [Ecosystem repo](https://github.com/buildwithnoknok/Ecosystem/tree/main/mechanical/housing-configurator).
 - Housings you export are yours to print, remix, and share — see our
