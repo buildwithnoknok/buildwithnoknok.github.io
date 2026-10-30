@@ -59,9 +59,11 @@ The PicoHub has two USB-C ports that look the same, so the tile names them: **PO
 power input, bottom edge) and **HOST** (the USB host port, top edge). Click a **power slot**
 on the wall a USB-C arrow points at, and the tool cuts an opening at the port's height that a
 USB-C plug fits through from outside. The PicoHub's Qwiic sockets also sit on top of the board,
-and a Qwiic plug needs about 1 cm of room in front of the board, so the box automatically gets
-a 1 cm bay in front of each pair of sockets. Everywhere else the wall stays close to the board, so
-the USB-C ports can reach it. The Pico's own micro-USB port gets no opening. Want the
+and a plugged-in Qwiic cable needs about 1 cm in front of the board edge. If your design uses
+them, add an empty cell there with **Reshape box**. The Pico's own micro-USB port gets no opening.
+
+Each mounting post has a small peg with thin ribs. Press a module firmly onto its posts and it
+stays in place while you wire up the next one. Want the
 port names on the print too? Use **Label the selected module**.
 
 ### 2. Arrange them
