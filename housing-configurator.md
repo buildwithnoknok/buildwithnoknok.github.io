@@ -58,7 +58,10 @@ Its lid gets a ventilation grille over the whole board.
 The PicoHub has two USB-C ports that look the same, so the tile names them: **POWER** (the
 power input, bottom edge) and **HOST** (the USB host port, top edge). Click a **power slot**
 on the wall a USB-C arrow points at, and the tool cuts an opening at the port's height that a
-USB-C plug fits through from outside. The Pico's own micro-USB port gets no opening. Want the
+USB-C plug fits through from outside. The PicoHub's Qwiic sockets also sit on top of the board,
+and a Qwiic plug needs about 1 cm of room in front of the board, so the box automatically gets
+a 1 cm bay in front of each pair of sockets. Everywhere else the wall stays close to the board, so
+the USB-C ports can reach it. The Pico's own micro-USB port gets no opening. Want the
 port names on the print too? Use **Label the selected module**.
 
 ### 2. Arrange them
@@ -150,7 +153,7 @@ Like power slots and latches, you add these by **clicking a wall**:
 |------|--------------|
 | ◤ **Male** | a dovetail *rail* on the outside of the wall |
 | ◣ **Female** | a dovetail *groove* the rail slides into. It fills the tile just inside that wall, so no module can go there — add an empty cell with **Reshape box** if none is free |
-| ▭ **Cable** | an opening in the wall for a cable to pass between the two boxes |
+| ▭ **Cable** | an opening in the wall for a cable to pass between the two boxes. It always ends 11 mm above the table, so a tall box and a low box get matching openings |
 
 ### Line them up
 
@@ -170,8 +173,10 @@ Print both boxes, then **lower the second box straight down** so its rails slide
 box's grooves from the top. The dovetails lock the boxes together side-to-side; to take them apart
 again, just **lift straight up** — no tools, nothing to break.
 
-> This is a **brand-new feature**. The dovetail is a snug slide fit — if your first pair prints too
-> tight or too loose, [tell us](https://noknok.odoo.com/support#Contact-us) and we'll fine-tune it.
+> The groove has two thin **crush ribs** inside. They squeeze the rail as it slides in, so the boxes
+> hold together even if your printer runs slightly over- or undersized. The first push needs a little
+> force. If your pair still prints too tight or too loose, [tell us](https://noknok.odoo.com/support#Contact-us)
+> and we'll fine-tune it.
 
 ---
 
