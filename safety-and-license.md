@@ -43,4 +43,4 @@ Makers who sell products built with noknok modules are **responsible for their o
 
 ---
 
-*This notice is provided for general information and is not legal advice. (DRAFT — pending legal review.)*
+*This notice is provided for general information and is not legal advice.*
