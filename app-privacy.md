@@ -5,7 +5,7 @@ permalink: /app-privacy/
 
 # noknok App — Privacy Policy
 
-**Last updated: 31 July 2026**
+**Last updated: 17 November 2026**
 
 This Privacy Policy explains how the **noknok** mobile application ("the app", "we",
 "us", "our") handles information. The app is provided by noknok (Christopher Houben,
@@ -45,7 +45,15 @@ noknok does not receive, log, or store your Wi-Fi credentials.
 
 The app uses your device's **internet / local network access** solely to (a) download
 public product files and (b) communicate with your noknok device during setup. It does
-not access your contacts, location, photos, microphone, or camera.
+not access your contacts, photos, microphone, or camera.
+
+**Location permission (optional).** To tell you which Wi-Fi network your phone is on,
+the app asks for Android's location permission, because Android only reveals the Wi-Fi
+network name to apps that hold it. The app never reads your position (GPS or otherwise).
+It uses the permission only to read the Wi-Fi network name, compares it on your phone with
+the network your noknok device was given, and shows a hint if they differ. The name is not
+stored and not sent to noknok or anyone else. You can decline: setup still works, you
+just get a more general hint.
 
 ## Data sharing
 
