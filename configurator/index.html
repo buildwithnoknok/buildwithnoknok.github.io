@@ -180,6 +180,7 @@
       <button data-mode="assembled" class="on" style="background:var(--accent);color:#04150f;border:0;padding:8px 14px;cursor:pointer;font-size:13px;font-weight:600;">Assembled</button>
       <button data-mode="print" style="background:var(--panel);color:var(--muted);border:0;padding:8px 14px;cursor:pointer;font-size:13px;">Print layout</button>
     </div>
+    <button id="boardsBtn" title="Show the boards: PCB (green), sockets at their real height (grey; RED = touches the box or another module), cable lanes (orange; AMBER = runs into something, judge whether your cable fits)" style="display:none;position:absolute;top:12px;left:12px;background:var(--panel);color:var(--muted);border:1px solid #2a2f3a;border-radius:8px;padding:8px 12px;cursor:pointer;font-size:13px;z-index:2;">Boards + cables</button>
     <button id="backTo2d" style="display:none;position:absolute;top:12px;right:12px;background:var(--panel);color:var(--ink);border:1px solid #2a2f3a;border-radius:8px;padding:8px 12px;cursor:pointer;font-size:13px;z-index:2;">← edit layout</button>
     <svg id="grid"></svg>
   </div>
