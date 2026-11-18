@@ -126,6 +126,16 @@ Click **Generate 3D box**. The tool switches to a 3D preview you can spin around
 - **Assembled** — how the finished box looks.
 - **Print layout** — the two covers laid flat and ready for the print bed.
 
+Click **Boards + cables** (top left) to see your modules inside the box: the boards in green, every
+connector at its real height in grey, and in orange the room each plugged-in cable needs. The box turns
+see-through so you can look in.
+
+- A connector that touches the box or another module turns **red**: move or rotate that module.
+- A cable lane that runs into something turns **amber**: check whether your cable fits there (plugs and
+  cables differ, so that is your call). The line at the bottom of the view lists all of them.
+
+The boards are only shown on screen; they are never part of the downloaded STL.
+
 Happy with it? Click **Download STL (both covers)** for the whole box, or grab each cover on
 its own with **top cover** / **bottom cover** — handy for printing one at a time or in two
 colours. (In the combined file the two covers are separate bodies, so your slicer's "Split to
